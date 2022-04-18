@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on gsoc
 - 📫 How to reach me mail: shubhamxshah@gmail.com
        linkedin: @shubhamxshah
-       ig:__shubham_shah___
+       ig:@__shubham_shah___
        
 
 <!---
