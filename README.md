@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubhamxshah
 - 👀 I’m interested in  opens source projects.
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning DSA with Java
 - 💞️ I’m looking to collaborate on gsoc
 - 📫 How to reach me mail: shubhamxshah@gmail.com
        linkedin: @shubhamxshah
